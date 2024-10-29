@@ -22,3 +22,9 @@ Para utilizar a biblioteca Hugging Face, instale o transformers:
 
 ```bash
 pip install transformers
+```
+## Equipe
+
+- [Alan Almeida](https://github.com/AlanTddy) 
+- [Dalton Campos](https://github.com/daltonfcampos) 
+- [Iverton Emiquison](https://github.com/IVERTON-EMIQUISON) 
